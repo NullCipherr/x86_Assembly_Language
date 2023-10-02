@@ -1,4 +1,4 @@
-🔧 ## x86 Assembly Language (32-bit) 🔧
+## 🔧 x86 Assembly Language (32-bit) 🔧
 
 This repository contains a collection of x86 Assembly code snippets focused on 32-bit architecture. The code covers various topics related to x86 Assembly programming and can be used as a learning resource, reference, or to solve specific problems related to Assembly language programming.
 
