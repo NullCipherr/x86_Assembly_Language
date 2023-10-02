@@ -32,7 +32,7 @@ x86 32-bit Assembly Environment: Ensure that you have an environment set up to a
 
 1. Clone this repository:
 
-	git clone https://github.com/NullCipherr/Assembly_x86_Language.git
+		git clone https://github.com/NullCipherr/Assembly_x86_Language.git
 		
 2. Navigate to the directory containing the desired Assembly code.
 
